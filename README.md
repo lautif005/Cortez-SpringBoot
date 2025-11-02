@@ -25,7 +25,7 @@ Sigue estos pasos para obtener una copia funcional del proyecto en tu máquina l
 
 ### Prerrequisitos
 
-* JDK 17 o superior instalado.
+* JDK 21 instalado.
 * Maven instalado.
 * Un IDE compatible con Spring Boot (IntelliJ IDEA, VS Code con extensiones de Java/Spring, etc.).
 
